@@ -3,9 +3,5 @@
   "name": "Ispy",
   "description": "Takes a pciture through the webcam and displays it in the newtab.",
   "version": "1",
-  "permissions": ["activeTab"],
-  "chrome_url_overrides" : 
-  {
-  	"newtab": "newtab.html"
-  }
+  "permissions": ["activeTab", "storage", "tabs"]
 }
