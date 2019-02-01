@@ -26,6 +26,7 @@ if (navigator.mediaDevices) {
 
   		// Take a photo and use it as the src for the img tag
   		imageCapture.takePhoto().then(function(blob) {
+        console.log("yay");
   			newImg.src = URL.createObjectURL(blob); // use this as img.src
   		});
 
