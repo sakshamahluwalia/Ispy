@@ -1,5 +1,5 @@
 <div align="center">
-  <img src ="https://sites.google.com/site/riptechsite1001/_/rsrc/1465414302805/home/google-chrome-banner.png" />
+  <img src ="https://ya-webdesign.com/images/animated-png-on-chrome-15.png" />
 </div>
 
 # Ispy
