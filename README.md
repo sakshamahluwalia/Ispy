@@ -1,5 +1,5 @@
 <div align="center">
-  <img src ="https://www.dailydot.com/wp-content/uploads/113/36/94625440202b7b97678bf0c6f7d7bdb4.jpg" />
+  <img src ="https://sites.google.com/site/riptechsite1001/_/rsrc/1465414302805/home/google-chrome-banner.png" />
 </div>
 
 # Ispy
